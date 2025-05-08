@@ -5,4 +5,5 @@ A WIP Minecraft mod for Fabric designed to overhaul the traveling merchant mecha
 
 # Credits
 Code - Note-0x01
+
 Art - SPiNDLE
