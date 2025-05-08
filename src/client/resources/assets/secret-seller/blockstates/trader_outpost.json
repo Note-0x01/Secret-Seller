@@ -1,0 +1,13 @@
+{
+  "defaults": {
+    "textures": {
+      "all": "secret-seller:textures/block/trader_outpost"
+    }
+  },
+  "variants": {
+    "facing=north": { "model": "secret-seller:block/trader_outpost" },
+    "facing=east": { "model": "secret-seller:block/trader_outpost", "y": 90 },
+    "facing=south": { "model": "secret-seller:block/trader_outpost", "y": 180 },
+    "facing=west": { "model": "secret-seller:block/trader_outpost", "y": 270 }
+  }
+}

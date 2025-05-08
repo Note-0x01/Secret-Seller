@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "secret-seller:item/32_coin"
+  }
+}

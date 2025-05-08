@@ -1,0 +1,26 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "secret-seller:item/1_coin"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "quantity": 0.25
+      },
+      "model": "secret-seller:item/16_coin"
+    },
+    {
+      "predicate": {
+        "quantity": 0.5
+      },
+      "model": "secret-seller:item/32_coin"
+    },
+    {
+      "predicate": {
+        "quantity": 0.75
+      },
+      "model": "secret-seller:item/48_coin"
+    }
+  ]
+}
